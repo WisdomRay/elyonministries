@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+/* @font-face {
+  font-family: 'DM Sans';
+  src: url('/ELYON/public/fonts/DM_Sans/DMSans-Italic-VariableFont_opsz\,wght.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Great Vibes';
+  src: url('/ELYON/public/fonts/Great_Vibes/GreatVibes-Regular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('/ELYON/public/fonts/Merriweather/Merriweather-VariableFont_opsz\,wdth\,wght.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+} */
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  /* font-family: Arial, Helvetica, sans-serif; */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;
+}
+.mission{
+  display: grid;
+  grid-template-columns: reapeat(auto-fill, 1fr);
+}
+@media only screen and (min-width:912px) and (max-width:984px) {
+ .sharing{
+  font-size: 40px !important;
+ }
+}
+@media only screen and (min-width:800px) and (max-width:911px) {
+ .sharing{
+  font-size: 35px !important;
+ }
+}
+@media only screen and (min-width:700px) and (max-width:799px) {
+ .sharing{
+  font-size: 30px !important;
+ }
+}
