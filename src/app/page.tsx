@@ -43,13 +43,13 @@ const Page = () => {
             <Image className='opacity-50 w-full h-full object-cover' src='/Images/demo_banner.svg' width={1100} height={500} alt='banner' ></Image>
           </div>
 
-          {/* <div className="absolute inset-0 flex justify-center items-center h-[1440px] ">
+          <div className="absolute inset-0 flex justify-center items-center h-[1440px] ">
             <div>
               <p className='' style={{fontFamily:'Great vibes'}}>Welcome to</p>
               <p>Elyon Life Ministry</p>
               <p>A place to grow in faith, find purpose, and encounter God.</p>
             </div>
-          </div> */}
+          </div>
 
         </div>
       <div className="bg-[#F5F5F5] md:px-10 p-2 text-[#1A1A1A]">
