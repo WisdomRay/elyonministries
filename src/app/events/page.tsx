@@ -136,7 +136,7 @@ const Page = () => {
                       </h2>
 
                       <p className="mb-8 text-lg text-[#3C4A5A] leading-relaxed" style={{ fontFamily: 'DM Sans' }}>
-                          Every gift makes a difference. Your donation helps us reach more lives, bring smiles to charity homes, and share love where it's needed most. Together, we can do more.
+                          Every gift makes a difference. Your donation helps us reach more lives, bring smiles to charity homes, and share love where it&rsquo;s needed most. Together, we can do more.
                       </p>
 
                       <button className="px-6 py-3 bg-[#C83737] text-white rounded-full text-base font-medium w-[20%]" style={{ fontFamily: 'DM Sans', width:'30%' }}>

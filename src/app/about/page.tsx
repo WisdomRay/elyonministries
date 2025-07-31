@@ -47,7 +47,7 @@ const Page = () => {
             </h3>
 
             <p className="text-base md:text-lg text-[#3C4A5A] leading-relaxed" style={{ fontFamily: 'DM Sans' }}>
-                Prince Esshiett is a servant of God who has been in the ministry for a couple of years. He spends his time being used by God to minister to people of all works of life irrespective of age, color, or race etc., in order to effect positive changes in their lives by the power of the Holy Ghost. Being one who has dedicated his life solely to the things of God, he believes in the total positive transformation of man by the power of God, and is passionate about touching lives through charitable works like Jesus did. Apart from being a servant of God, he's also a husband and a father of two.    </p>
+                Prince Esshiett is a servant of God who has been in the ministry for a couple of years. He spends his time being used by God to minister to people of all works of life irrespective of age, color, or race etc., in order to effect positive changes in their lives by the power of the Holy Ghost. Being one who has dedicated his life solely to the things of God, he believes in the total positive transformation of man by the power of God, and is passionate about touching lives through charitable works like Jesus did. Apart from being a servant of God, he&rsquo;s also a husband and a father of two.    </p>
           </div>
 
           {/* Right Image Section */}
@@ -86,8 +86,8 @@ const Page = () => {
                 <div className="space-y-6 text-[#3C4A5A] md:text-[18px] text-[14px] leading-relaxed font-medium font-sans">
                   <p>
                     A divine movement began in May 2017, geared towards the spiritual emancipation, restoration, and divine
-                    awakening of God's people. This movement, also known as Light and Fire Renaissance Commission (LFRC), was
-                    used mightily by God to touch lives, save souls, and liberate God's people from all forms of darkness and
+                    awakening of God&rsquo;s people. This movement, also known as Light and Fire Renaissance Commission (LFRC), was
+                    used mightily by God to touch lives, save souls, and liberate God&rsquo;s people from all forms of darkness and
                     spiritual captivity.
                   </p>
                   <p>
@@ -97,8 +97,8 @@ const Page = () => {
                   </p>
                   <p>
                     Welcome to Elyon Life Ministry, a place where God lives, a place where the Spirit of God reigns, a place
-                    of Power and divine authority, a place of favour, grace and blessings, a place where God's love takes
-                    centre stage, and a place of God's light, where darkness is annihilated and the peace of God is enthroned
+                    of Power and divine authority, a place of favour, grace and blessings, a place where God&rsquo;s love takes
+                    centre stage, and a place of God&rsquo;s light, where darkness is annihilated and the peace of God is enthroned
                     in every aspect of our lives.
                   </p>
                 </div>

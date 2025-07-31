@@ -78,7 +78,7 @@ const Page = () => {
                 </h3>
 
                 <h2 className="mb-4 text-2xl md:text-[44px] font-bold font-merriweather sharing">
-                  Sharing God's Love <br />and Changing Lives
+                  Sharing God&rsquo;s Love <br />and Changing Lives
                 </h2>
 
                 <p className="mb-6 text-base md:text-lg text-[#3C4A5A] font-sans">
@@ -167,12 +167,12 @@ const Page = () => {
               </div>
             </div>
             <div className='md:w-[40%] w-[90%] mx-auto md:pt-0 pt-10'>
-              <p className='md:mb-[30px] mb-[25px] md:text-[18px] text-[14px] font-sans'>Hear God’s Word <br /> Spoken to Your Heart.</p>
+              <p className='md:mb-[30px] mb-[25px] md:text-[18px] text-[14px] font-sans'>Hear God&rsquo;s Word <br /> Spoken to Your Heart.</p>
               <div className="relative md:h-[500px]">
                   <Image src='/Images/watch_sermon.svg' width={300} height={480} alt='Watch Sermon' className='w-full h-full object-cover rounded-2xl' ></Image>
                   <div className='absolute bottom-0 left-0 w-full text-white p-4'>
                     <p className='fonts-sans font-medium text-[12px] mb-6'>SERMONS</p>
-                    <p className='font-bold font-merriweather text-[24px] mb-5'>God’s Word</p>
+                    <p className='font-bold font-merriweather text-[24px] mb-5'>God&rsquo;s Word</p>
                     <button className="px-6 py-3 bg-[#C83737] text-white rounded-full text-sm md:text-[18px] font-medium font-sans">
                       Watch Now
                     </button>

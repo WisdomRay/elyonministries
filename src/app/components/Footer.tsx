@@ -16,7 +16,7 @@ export default function Footer() {
     <div className="md:hidden py-4 absolute top-4 left-1/2 transform -translate-x-1/2 text-center w-full">
       <p className="font-sans text-[12px] font-medium mb-4">FAVOURITE QUOTE</p>
       <blockquote className="font-sans text-[20px] font-semibold">
-        “One moment in God's presence can change everything.”
+        “One moment in God&rsquo;s presence can change everything.”
       </blockquote>
     </div>
   </div>
